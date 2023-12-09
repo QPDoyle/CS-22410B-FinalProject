@@ -1,0 +1,19 @@
+# SmartSafeUtils Library
+## RFID WIRING:
+
+SDA	Pin 24 / GPIO8 (CE0)
+
+SCK	Pin 23 / GPIO11 (SCKL)
+
+MOSI	Pin 19 / GPIO10 (MOSI)
+MISO	Pin 21 / GPIO9 (MISO)
+
+IRQ	–
+
+GND	GND
+
+RST	Pin 22 / GPIO25
+
+3.3V	3.3V
+
+
